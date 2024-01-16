@@ -11,6 +11,8 @@ RU
 
 > Если на сервере большой онлайн, не рекомендую использовать этот плагин, база данных может поймать lock.
 
+### Установка: plugins/python
+
 EN
 ---
 
@@ -21,6 +23,9 @@ EN
 - ✅ Settings in config.py
 
 > If the server has a large online network, I do not recommend using this plugin, the database may catch the lock.
+
+
+### Installation: plugins/python
 
 ## Check my social/Мои соц.сети
 [![Discord](https://img.shields.io/badge/Discord-090909.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/535131587524952087/)
