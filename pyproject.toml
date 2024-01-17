@@ -1,0 +1,13 @@
+[project]
+name = "MScoreBoard"
+version = "0.1.0"
+description = "MScoreBoard"
+authors = [{ name = "Mipa", email = "tg@mipa_senpai" }]
+dependencies = ["llpy-helper-lib>=2.13.1"]
+requires-python = ">=3.10"
+readme = ""
+license = { text = "MIT" }
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
